@@ -1,0 +1,295 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2880F3111490443700D63C6E /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2880F3101490443700D63C6E /* Cocoa.framework */; };
+		2880F31B1490443700D63C6E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2880F3191490443700D63C6E /* InfoPlist.strings */; };
+		2880F31D1490443700D63C6E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2880F31C1490443700D63C6E /* main.m */; };
+		2880F3211490443700D63C6E /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 2880F31F1490443700D63C6E /* Credits.rtf */; };
+		2880F3241490443700D63C6E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2880F3231490443700D63C6E /* AppDelegate.m */; };
+		2880F3271490443800D63C6E /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2880F3251490443800D63C6E /* MainMenu.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2880F30C1490443700D63C6E /* sNese.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sNese.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2880F3101490443700D63C6E /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		2880F3131490443700D63C6E /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		2880F3141490443700D63C6E /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		2880F3151490443700D63C6E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2880F3181490443700D63C6E /* sNese-Info.plist */ = {isa = PBXFileReference; path = "sNese-Info.plist"; sourceTree = "<group>"; };
+		2880F31A1490443700D63C6E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2880F31C1490443700D63C6E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2880F31E1490443700D63C6E /* sNese-Prefix.pch */ = {isa = PBXFileReference; path = "sNese-Prefix.pch"; sourceTree = "<group>"; };
+		2880F3201490443700D63C6E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		2880F3221490443700D63C6E /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		2880F3231490443700D63C6E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		2880F3261490443800D63C6E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2880F3091490443700D63C6E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2880F3111490443700D63C6E /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2880F3011490443700D63C6E = {
+			isa = PBXGroup;
+			children = (
+				2880F3161490443700D63C6E /* sNese */,
+				2880F30F1490443700D63C6E /* Frameworks */,
+				2880F30D1490443700D63C6E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2880F30D1490443700D63C6E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2880F30C1490443700D63C6E /* sNese.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2880F30F1490443700D63C6E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2880F3101490443700D63C6E /* Cocoa.framework */,
+				2880F3121490443700D63C6E /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2880F3121490443700D63C6E /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2880F3131490443700D63C6E /* AppKit.framework */,
+				2880F3141490443700D63C6E /* CoreData.framework */,
+				2880F3151490443700D63C6E /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		2880F3161490443700D63C6E /* sNese */ = {
+			isa = PBXGroup;
+			children = (
+				2880F3221490443700D63C6E /* AppDelegate.h */,
+				2880F3231490443700D63C6E /* AppDelegate.m */,
+				2880F3251490443800D63C6E /* MainMenu.xib */,
+				2880F3171490443700D63C6E /* Supporting Files */,
+			);
+			path = sNese;
+			sourceTree = "<group>";
+		};
+		2880F3171490443700D63C6E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2880F3181490443700D63C6E /* sNese-Info.plist */,
+				2880F3191490443700D63C6E /* InfoPlist.strings */,
+				2880F31C1490443700D63C6E /* main.m */,
+				2880F31E1490443700D63C6E /* sNese-Prefix.pch */,
+				2880F31F1490443700D63C6E /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2880F30B1490443700D63C6E /* sNese */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2880F32A1490443800D63C6E /* Build configuration list for PBXNativeTarget "sNese" */;
+			buildPhases = (
+				2880F3081490443700D63C6E /* Sources */,
+				2880F3091490443700D63C6E /* Frameworks */,
+				2880F30A1490443700D63C6E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = sNese;
+			productName = sNese;
+			productReference = 2880F30C1490443700D63C6E /* sNese.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2880F3031490443700D63C6E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 2880F3061490443700D63C6E /* Build configuration list for PBXProject "sNese" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2880F3011490443700D63C6E;
+			productRefGroup = 2880F30D1490443700D63C6E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2880F30B1490443700D63C6E /* sNese */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2880F30A1490443700D63C6E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2880F31B1490443700D63C6E /* InfoPlist.strings in Resources */,
+				2880F3211490443700D63C6E /* Credits.rtf in Resources */,
+				2880F3271490443800D63C6E /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2880F3081490443700D63C6E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2880F31D1490443700D63C6E /* main.m in Sources */,
+				2880F3241490443700D63C6E /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2880F3191490443700D63C6E /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2880F31A1490443700D63C6E /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2880F31F1490443700D63C6E /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2880F3201490443700D63C6E /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		2880F3251490443800D63C6E /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2880F3261490443800D63C6E /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2880F3281490443800D63C6E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		2880F3291490443800D63C6E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		2880F32B1490443800D63C6E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "sNese/sNese-Prefix.pch";
+				INFOPLIST_FILE = "sNese/sNese-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2880F32C1490443800D63C6E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "sNese/sNese-Prefix.pch";
+				INFOPLIST_FILE = "sNese/sNese-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2880F3061490443700D63C6E /* Build configuration list for PBXProject "sNese" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2880F3281490443800D63C6E /* Debug */,
+				2880F3291490443800D63C6E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2880F32A1490443800D63C6E /* Build configuration list for PBXNativeTarget "sNese" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2880F32B1490443800D63C6E /* Debug */,
+				2880F32C1490443800D63C6E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2880F3031490443700D63C6E /* Project object */;
+}
