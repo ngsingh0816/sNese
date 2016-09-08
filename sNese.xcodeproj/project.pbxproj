@@ -7,28 +7,60 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2821707414999B830044FE59 /* TableWindow.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2821707314999B830044FE59 /* TableWindow.mm */; };
+		285056E815A5060D0087DB34 /* PPU.mm in Sources */ = {isa = PBXBuildFile; fileRef = 285056E715A5060D0087DB34 /* PPU.mm */; };
+		2869AE7815A4D6F9002BB743 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2869AE7715A4D6F8002BB743 /* OpenAL.framework */; };
+		2869AE7A15A4DA47002BB743 /* DSP.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2869AE7915A4DA47002BB743 /* DSP.mm */; };
+		287BCE551597DFF0005E7084 /* APU.mm in Sources */ = {isa = PBXBuildFile; fileRef = 287BCE541597DFF0005E7084 /* APU.mm */; };
 		2880F3111490443700D63C6E /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2880F3101490443700D63C6E /* Cocoa.framework */; };
 		2880F31B1490443700D63C6E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2880F3191490443700D63C6E /* InfoPlist.strings */; };
 		2880F31D1490443700D63C6E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2880F31C1490443700D63C6E /* main.m */; };
 		2880F3211490443700D63C6E /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 2880F31F1490443700D63C6E /* Credits.rtf */; };
-		2880F3241490443700D63C6E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2880F3231490443700D63C6E /* AppDelegate.m */; };
 		2880F3271490443800D63C6E /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2880F3251490443800D63C6E /* MainMenu.xib */; };
+		2880F335149048B800D63C6E /* GLView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2880F334149048B800D63C6E /* GLView.mm */; };
+		2880F33C14904AB300D63C6E /* GLString.m in Sources */ = {isa = PBXBuildFile; fileRef = 2880F33B14904AB300D63C6E /* GLString.m */; };
+		2880F34014904CB600D63C6E /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2880F33F14904CB600D63C6E /* OpenGL.framework */; };
+		2880F34514904FA600D63C6E /* CPU.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2880F34414904FA600D63C6E /* CPU.mm */; };
+		2880F3511490666B00D63C6E /* Opcodes.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2880F3501490666B00D63C6E /* Opcodes.mm */; };
+		2880F3551490675600D63C6E /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2880F3541490675600D63C6E /* AppDelegate.mm */; };
+		28A3EEBC1597EAB90059B0B1 /* APUOpcodes.mm in Sources */ = {isa = PBXBuildFile; fileRef = 28A3EEBB1597EAB90059B0B1 /* APUOpcodes.mm */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2821707214999B830044FE59 /* TableWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableWindow.h; sourceTree = "<group>"; };
+		2821707314999B830044FE59 /* TableWindow.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = TableWindow.mm; sourceTree = "<group>"; };
+		28256AAF1597EC1300A2EB45 /* Types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Types.h; sourceTree = "<group>"; };
+		285056E315A505ED0087DB34 /* PPU.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PPU.h; sourceTree = "<group>"; };
+		285056E715A5060D0087DB34 /* PPU.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = PPU.mm; sourceTree = "<group>"; };
+		2869AE7315A4CB01002BB743 /* DSP.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSP.h; sourceTree = "<group>"; };
+		2869AE7715A4D6F8002BB743 /* OpenAL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenAL.framework; path = ../../../System/Library/Frameworks/OpenAL.framework; sourceTree = "<group>"; };
+		2869AE7915A4DA47002BB743 /* DSP.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DSP.mm; sourceTree = "<group>"; };
+		287BCE501597DDA9005E7084 /* APU.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APU.h; sourceTree = "<group>"; };
+		287BCE541597DFF0005E7084 /* APU.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = APU.mm; sourceTree = "<group>"; };
 		2880F30C1490443700D63C6E /* sNese.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sNese.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2880F3101490443700D63C6E /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		2880F3131490443700D63C6E /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		2880F3141490443700D63C6E /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		2880F3151490443700D63C6E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		2880F3181490443700D63C6E /* sNese-Info.plist */ = {isa = PBXFileReference; path = "sNese-Info.plist"; sourceTree = "<group>"; };
+		2880F3181490443700D63C6E /* sNese-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "sNese-Info.plist"; sourceTree = "<group>"; };
 		2880F31A1490443700D63C6E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2880F31C1490443700D63C6E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2880F31E1490443700D63C6E /* sNese-Prefix.pch */ = {isa = PBXFileReference; path = "sNese-Prefix.pch"; sourceTree = "<group>"; };
+		2880F31E1490443700D63C6E /* sNese-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "sNese-Prefix.pch"; sourceTree = "<group>"; };
 		2880F3201490443700D63C6E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		2880F3221490443700D63C6E /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
-		2880F3231490443700D63C6E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		2880F3221490443700D63C6E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2880F3261490443800D63C6E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		2880F333149048B800D63C6E /* GLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLView.h; sourceTree = "<group>"; };
+		2880F334149048B800D63C6E /* GLView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = GLView.mm; sourceTree = "<group>"; };
+		2880F33A14904AB300D63C6E /* GLString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLString.h; sourceTree = "<group>"; };
+		2880F33B14904AB300D63C6E /* GLString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLString.m; sourceTree = "<group>"; };
+		2880F33F14904CB600D63C6E /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = ../../../System/Library/Frameworks/OpenGL.framework; sourceTree = "<group>"; };
+		2880F34114904F1300D63C6E /* CPU.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPU.h; sourceTree = "<group>"; };
+		2880F34414904FA600D63C6E /* CPU.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = CPU.mm; sourceTree = "<group>"; };
+		2880F34A149055D400D63C6E /* Opcodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Opcodes.h; sourceTree = "<group>"; };
+		2880F3501490666B00D63C6E /* Opcodes.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Opcodes.mm; sourceTree = "<group>"; };
+		2880F3541490675600D63C6E /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = AppDelegate.mm; sourceTree = "<group>"; };
+		28A3EEB71597E9010059B0B1 /* APUOpcodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APUOpcodes.h; sourceTree = "<group>"; };
+		28A3EEBB1597EAB90059B0B1 /* APUOpcodes.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = APUOpcodes.mm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,12 +69,63 @@
 			buildActionMask = 2147483647;
 			files = (
 				2880F3111490443700D63C6E /* Cocoa.framework in Frameworks */,
+				2880F34014904CB600D63C6E /* OpenGL.framework in Frameworks */,
+				2869AE7815A4D6F9002BB743 /* OpenAL.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		285056E915A506260087DB34 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				2821707214999B830044FE59 /* TableWindow.h */,
+				2821707314999B830044FE59 /* TableWindow.mm */,
+				2880F3221490443700D63C6E /* AppDelegate.h */,
+				2880F3541490675600D63C6E /* AppDelegate.mm */,
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
+		285056EA15A506410087DB34 /* CPU */ = {
+			isa = PBXGroup;
+			children = (
+				28256AAF1597EC1300A2EB45 /* Types.h */,
+				2880F34114904F1300D63C6E /* CPU.h */,
+				2880F34414904FA600D63C6E /* CPU.mm */,
+				2880F34A149055D400D63C6E /* Opcodes.h */,
+				2880F3501490666B00D63C6E /* Opcodes.mm */,
+			);
+			name = CPU;
+			sourceTree = "<group>";
+		};
+		285056EB15A506570087DB34 /* APU */ = {
+			isa = PBXGroup;
+			children = (
+				287BCE501597DDA9005E7084 /* APU.h */,
+				287BCE541597DFF0005E7084 /* APU.mm */,
+				2869AE7315A4CB01002BB743 /* DSP.h */,
+				2869AE7915A4DA47002BB743 /* DSP.mm */,
+				28A3EEB71597E9010059B0B1 /* APUOpcodes.h */,
+				28A3EEBB1597EAB90059B0B1 /* APUOpcodes.mm */,
+			);
+			name = APU;
+			sourceTree = "<group>";
+		};
+		285056EC15A5066B0087DB34 /* PPU */ = {
+			isa = PBXGroup;
+			children = (
+				2880F33A14904AB300D63C6E /* GLString.h */,
+				2880F33B14904AB300D63C6E /* GLString.m */,
+				2880F333149048B800D63C6E /* GLView.h */,
+				2880F334149048B800D63C6E /* GLView.mm */,
+				285056E315A505ED0087DB34 /* PPU.h */,
+				285056E715A5060D0087DB34 /* PPU.mm */,
+			);
+			name = PPU;
+			sourceTree = "<group>";
+		};
 		2880F3011490443700D63C6E = {
 			isa = PBXGroup;
 			children = (
@@ -72,6 +155,8 @@
 		2880F3121490443700D63C6E /* Other Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2869AE7715A4D6F8002BB743 /* OpenAL.framework */,
+				2880F33F14904CB600D63C6E /* OpenGL.framework */,
 				2880F3131490443700D63C6E /* AppKit.framework */,
 				2880F3141490443700D63C6E /* CoreData.framework */,
 				2880F3151490443700D63C6E /* Foundation.framework */,
@@ -82,8 +167,10 @@
 		2880F3161490443700D63C6E /* sNese */ = {
 			isa = PBXGroup;
 			children = (
-				2880F3221490443700D63C6E /* AppDelegate.h */,
-				2880F3231490443700D63C6E /* AppDelegate.m */,
+				285056E915A506260087DB34 /* Common */,
+				285056EA15A506410087DB34 /* CPU */,
+				285056EC15A5066B0087DB34 /* PPU */,
+				285056EB15A506570087DB34 /* APU */,
 				2880F3251490443800D63C6E /* MainMenu.xib */,
 				2880F3171490443700D63C6E /* Supporting Files */,
 			);
@@ -128,7 +215,7 @@
 		2880F3031490443700D63C6E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0440;
 			};
 			buildConfigurationList = 2880F3061490443700D63C6E /* Build configuration list for PBXProject "sNese" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -166,7 +253,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				2880F31D1490443700D63C6E /* main.m in Sources */,
-				2880F3241490443700D63C6E /* AppDelegate.m in Sources */,
+				2880F335149048B800D63C6E /* GLView.mm in Sources */,
+				2880F33C14904AB300D63C6E /* GLString.m in Sources */,
+				2880F34514904FA600D63C6E /* CPU.mm in Sources */,
+				2880F3511490666B00D63C6E /* Opcodes.mm in Sources */,
+				2880F3551490675600D63C6E /* AppDelegate.mm in Sources */,
+				2821707414999B830044FE59 /* TableWindow.mm in Sources */,
+				287BCE551597DFF0005E7084 /* APU.mm in Sources */,
+				28A3EEBC1597EAB90059B0B1 /* APUOpcodes.mm in Sources */,
+				2869AE7A15A4DA47002BB743 /* DSP.mm in Sources */,
+				285056E815A5060D0087DB34 /* PPU.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +346,9 @@
 		2880F32B1490443800D63C6E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "sNese/sNese-Prefix.pch";
 				INFOPLIST_FILE = "sNese/sNese-Info.plist";
@@ -261,6 +360,9 @@
 		2880F32C1490443800D63C6E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "sNese/sNese-Prefix.pch";
 				INFOPLIST_FILE = "sNese/sNese-Info.plist";
@@ -288,6 +390,7 @@
 				2880F32C1490443800D63C6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

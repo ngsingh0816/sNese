@@ -1,0 +1,1020 @@
+TsNese
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Developer/Projects/sNese/build/Debug/sNese.app/Contents/Info.plist sNese/sNese-Info.plist
+cProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/main.o /Developer/Projects/sNese/sNese/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLView.o /Developer/Projects/sNese/sNese/GLView.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLString.o /Developer/Projects/sNese/sNese/GLString.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.o /Developer/Projects/sNese/sNese/CPU.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/Opcodes.o /Developer/Projects/sNese/sNese/Opcodes.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.o /Developer/Projects/sNese/sNese/AppDelegate.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/TableWindow.o /Developer/Projects/sNese/sNese/TableWindow.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.o /Developer/Projects/sNese/sNese/APU.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APUOpcodes.o /Developer/Projects/sNese/sNese/APUOpcodes.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.o /Developer/Projects/sNese/sNese/DSP.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/PPU.o /Developer/Projects/sNese/sNese/PPU.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Developer/Projects/sNese/build/Debug/sNese.app/Contents/MacOS/sNese normal x86_64
+cCopyStringsFile /Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/en.lproj/InfoPlist.strings sNese/en.lproj/InfoPlist.strings
+cCompileXIB /Developer/Projects/sNese/sNese/en.lproj/MainMenu.xib
+cCpResource sNese/en.lproj/Credits.rtf build/Debug/sNese.app/Contents/Resources/en.lproj/Credits.rtf
+cTouch /Developer/Projects/sNese/build/Debug/sNese.app
+
+N/Developer/Projects/sNese/../../../System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004F66DADF0000000000072480
+t1332140767
+s468096
+
+N/Developer/Projects/sNese/../../../System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004F9D04D2000000000002E350
+t1335690450
+s189264
+
+N/Developer/Projects/sNese/OpenGL.framework/Headers/gl.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Projects/sNese/OpenGL.framework/Headers/glext.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Projects/sNese/OpenGL.framework/Headers/glu.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Projects/sNese/OpenGL.framework/OpenGL
+c000000004E963147000000000002D2A0
+t1318465863
+s184992
+
+N/Developer/Projects/sNese/build/Debug/sNese.app
+t1343950577
+s102
+
+N/Developer/Projects/sNese/build/Debug/sNese.app/Contents/Info.plist
+t1340491556
+s1411
+
+N/Developer/Projects/sNese/build/Debug/sNese.app/Contents/MacOS/sNese
+t1343950577
+s449604
+
+N/Developer/Projects/sNese/build/Debug/sNese.app/Contents/PkgInfo
+t1340491556
+s8
+
+N/Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/en.lproj/Credits.rtf
+t1323306178
+s436
+
+N/Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1323306178
+s92
+
+N/Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/en.lproj/MainMenu.nib
+t1343943484
+s66212
+
+N/Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/sNese
+t2
+s0
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.o
+t1343944387
+s17188
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APUOpcodes.o
+t1343939861
+s180080
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.o
+t1343944387
+s169576
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.o
+t1343945582
+s55656
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPUBackup.o
+t2
+s0
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.o
+t1343773856
+s2552
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLString.o
+t1341443869
+s84660
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLView.o
+t1343949245
+s87992
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/Opcodes.o
+t1343944387
+s175532
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/PPU.o
+t1343950577
+s39372
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/TableWindow.o
+t1341196248
+s39700
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/main.o
+t1340491558
+s2160
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/sNese.LinkFileList
+c000000004FF4CF1C0000000000000402
+t1341443868
+s1026
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/APU.plist
+t1342998378
+s276
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/APUOpcodes.plist
+t1342998378
+s276
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/AppDelegate.plist
+t1342998381
+s1598
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/CPU.plist
+t1342998380
+s1590
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/DSP.plist
+t1342998378
+s276
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/GLString.plist
+t1341622181
+s2844
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/GLView.plist
+t1342998380
+s30079
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/Opcodes.plist
+t1342998378
+s276
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/PPU.plist
+t1342998381
+s276
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/TableWindow.plist
+t1341622181
+s4572
+
+N/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/main.plist
+t1341622181
+s276
+
+N/Developer/Projects/sNese/sNese/APU.h
+c000000005018596400000000000011BD
+t1343773028
+s4541
+
+N/Developer/Projects/sNese/sNese/APU.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Projects/sNese/sNese/APU.mm
+c000000005018579200000000000018FA
+t1343772562
+s6394
+
+N/Developer/Projects/sNese/sNese/APUOpcodes.h
+c00000000501862CD0000000000001622
+t1343775437
+s5666
+
+N/Developer/Projects/sNese/sNese/APUOpcodes.mm
+c00000000501AE4D8000000000000F48E
+t1343939800
+s62606
+
+N/Developer/Projects/sNese/sNese/AppDelegate.h
+c00000000501862640000000000000D8D
+t1343775332
+s3469
+
+N/Developer/Projects/sNese/sNese/AppDelegate.m
+c000000004EE02E55000000000000058F
+t1323314773
+s1423
+
+N/Developer/Projects/sNese/sNese/AppDelegate.mm
+c00000000501AF6B8000000000000A1D0
+t1343944376
+s41424
+
+N/Developer/Projects/sNese/sNese/CPU.h
+c00000000501AF6C10000000000003334
+t1343944385
+s13108
+
+N/Developer/Projects/sNese/sNese/CPU.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Projects/sNese/sNese/CPU.mm
+c00000000501AFB4100000000000076FD
+t1343945537
+s30461
+
+N/Developer/Projects/sNese/sNese/CPUBackup.mm
+c0000000050037CF400000000000063E8
+t1342405876
+s25576
+
+N/Developer/Projects/sNese/sNese/DSP.h
+c000000004FF49D6E00000000000000FF
+t1341431150
+s255
+
+N/Developer/Projects/sNese/sNese/DSP.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Projects/sNese/sNese/DSP.mm
+c000000004FF4CF13000000000000074A
+t1341443859
+s1866
+
+N/Developer/Projects/sNese/sNese/GLString.h
+c000000004FF4CEF900000000000019E9
+t1341443833
+s6633
+
+N/Developer/Projects/sNese/sNese/GLString.m
+c000000004DFD4B660000000000003906
+t1308445542
+s14598
+
+N/Developer/Projects/sNese/sNese/GLView.h
+c000000005012FD9D00000000000004F5
+t1343421853
+s1269
+
+N/Developer/Projects/sNese/sNese/GLView.mm
+c00000000501B09BA00000000000060C4
+t1343949242
+s24772
+
+N/Developer/Projects/sNese/sNese/Opcodes.h
+c000000004FE649530000000000001E8A
+t1340492115
+s7818
+
+N/Developer/Projects/sNese/sNese/Opcodes.m
+c000000004EE01E5400000000000000BA
+t1323310676
+s186
+
+N/Developer/Projects/sNese/sNese/Opcodes.mm
+c000000005015A05F000000000000D11E
+t1343594591
+s53534
+
+N/Developer/Projects/sNese/sNese/PPU.h
+c000000005014310E00000000000004A6
+t1343500558
+s1190
+
+N/Developer/Projects/sNese/sNese/PPU.m
+c000000004FF4CE6C00000000000000AD
+t1341443692
+s173
+
+N/Developer/Projects/sNese/sNese/PPU.mm
+c00000000501B0F0B0000000000006001
+t1343950603
+s24577
+
+N/Developer/Projects/sNese/sNese/TableWindow.h
+c000000004E1270A20000000000000560
+t1309831330
+s1376
+
+N/Developer/Projects/sNese/sNese/TableWindow.mm
+c000000004FF107D60000000000000E38
+t1341196246
+s3640
+
+N/Developer/Projects/sNese/sNese/Types.h
+c000000004FE7B49B000000000000011F
+t1340585115
+s287
+
+N/Developer/Projects/sNese/sNese/en.lproj/Credits.rtf
+c000000004EE00CB700000000000001B4
+t1323306167
+s436
+
+N/Developer/Projects/sNese/sNese/en.lproj/InfoPlist.strings
+c000000004EE00CB7000000000000002D
+t1323306167
+s45
+
+N/Developer/Projects/sNese/sNese/en.lproj/MainMenu.xib
+c00000000501AF33A000000000005D57C
+t1343943482
+s382332
+
+N/Developer/Projects/sNese/sNese/main.m
+c000000004EE00CB700000000000000F8
+t1323306167
+s248
+
+N/Developer/Projects/sNese/sNese/sNese
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Projects/sNese/sNese/sNese-Prefix.pch
+c000000004EE00CB7000000000000008A
+t1323306167
+s138
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E9A02B500000000000000EE
+t1318716085
+s238
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E7AD7020000000000002470
+t1316673282
+s9328
+
+N/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch.pth
+t1341622181
+s13979336
+
+N/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-amdotulsxunoxzhcjduhrfkeatzq/sNese-Prefix.pch.pth
+t1323306178
+s11088744
+
+N/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-arxpcadyhkgvnfcnccdufnylsuzo/sNese-Prefix.pch.pth
+t1341622181
+s11075016
+
+N/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-bgiauxfjopqfrqdfmgbpixtgaaoz/sNese-Prefix.pch.pth
+t1323307622
+s13978904
+
+N/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-clxzxfartgheafcsasetsgtqtzfv/sNese-Prefix.pch.pth
+t1323307239
+s11075016
+
+N/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-dtqmmeptnyhwuahkalfyuvovnzil/sNese-Prefix.pch.pth
+t1323307595
+s13979352
+
+N/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch.pth
+t1340491558
+s13979344
+
+N/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch.pth
+t1340491557
+s11075016
+
+N/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-hlfnupafhpitzgcszswzbtvkhlqp/sNese-Prefix.pch.pth
+t1323307622
+s11074608
+
+NsNese/sNese-Info.plist
+c000000004EE00CB70000000000000454
+t1323306167
+s1108
+
+CAnalyze /Developer/Projects/sNese/sNese/APU.mm
+s364755304.448503
+e364755305.131402
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/APU.mm
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Analyze /Developer/Projects/sNese/sNese/APU.mm3fe37268b9bdb541^5da32169b9bdb541^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Developer/Projects/sNese/sNese/APU.mm0000000000000000^1914"Analyze sNese/APU.mm    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/APU.d --analyze /Developer/Projects/sNese/sNese/APU.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/APU.plist36"1957A603-81FA-4F9D-9781-48581F5AB2E9-
+
+CAnalyze /Developer/Projects/sNese/sNese/APUOpcodes.mm
+s364755304.448518
+e364755305.131434
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/APUOpcodes.mm
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Analyze /Developer/Projects/sNese/sNese/APUOpcodes.mm22e27268b9bdb541^f7ae2169b9bdb541^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Developer/Projects/sNese/sNese/APUOpcodes.mm0000000000000000^1942"Analyze sNese/APUOpcodes.mm    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/APUOpcodes.d --analyze /Developer/Projects/sNese/sNese/APUOpcodes.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/APUOpcodes.plist36"F7B01DB7-6622-4E22-8873-4DF654C49284-
+
+CAnalyze /Developer/Projects/sNese/sNese/AppDelegate.mm
+s364755304.448148
+e364755308.357717
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/AppDelegate.mm
+o/Developer/Projects/sNese/sNese/AppDelegate.mm:387:3:{387:9-387:24}: warning: Value stored to 'pbc' is never read
+o                 pbc = pc | (pb << 16);
+o                 ^     ~~~~~~~~~~~~~~~
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Analyze /Developer/Projects/sNese/sNese/AppDelegate.mmb4c87268b9bdb541^4a965b6cb9bdb541^-214"/Developer/Projects/sNese/sNese/AppDelegate.mm:387:3:{387:9-387:24}: warning: Value stored to 'pbc' is never read                 pbc = pc | (pb << 16);                 ^     ~~~~~~~~~~~~~~~1 warning generated.-0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Developer/Projects/sNese/sNese/AppDelegate.mm0000000000000000^1946"Analyze sNese/AppDelegate.mm    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/AppDelegate.d --analyze /Developer/Projects/sNese/sNese/AppDelegate.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/AppDelegate.plist36"2E0A59F2-DE34-4497-B704-EFE74A7558E1-
+
+CAnalyze /Developer/Projects/sNese/sNese/CPU.mm
+s364755304.447114
+e364755307.146640
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/CPU.mm
+o/Developer/Projects/sNese/sNese/CPU.mm:130:3:{130:9-130:24}: warning: Value stored to 'pbc' is never read
+o                 pbc = pc | (pb << 16);
+o                 ^     ~~~~~~~~~~~~~~~
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Analyze /Developer/Projects/sNese/sNese/CPU.mm6e877268b9bdb541^b58b256bb9bdb541^-206"/Developer/Projects/sNese/sNese/CPU.mm:130:3:{130:9-130:24}: warning: Value stored to 'pbc' is never read                 pbc = pc | (pb << 16);                 ^     ~~~~~~~~~~~~~~~1 warning generated.-0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Developer/Projects/sNese/sNese/CPU.mm0000000000000000^1914"Analyze sNese/CPU.mm    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/CPU.d --analyze /Developer/Projects/sNese/sNese/CPU.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/CPU.plist36"3E0F9BDF-C1CA-4CA3-8264-210896743219-
+
+CAnalyze /Developer/Projects/sNese/sNese/DSP.mm
+s364691178.135826
+e364691178.598359
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/DSP.mm
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Analyze /Developer/Projects/sNese/sNese/DSP.mmde0023eabebcb541^c72e99eabebcb541^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Developer/Projects/sNese/sNese/DSP.mm0000000000000000^1914"Analyze sNese/DSP.mm    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/DSP.d --analyze /Developer/Projects/sNese/sNese/DSP.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/DSP.plist36"3FE91BDA-54DB-43B9-865F-D7FD14022963-
+
+CAnalyze /Developer/Projects/sNese/sNese/GLString.m
+s363314981.090709
+e363314981.761706
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/GLString.m
+o/Developer/Projects/sNese/sNese/GLString.m:147:2: warning: Instance variable used while 'self' is not set to the result of '[(super or self) init...]'
+o         cgl_ctx = NULL;
+o         ^
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Analyze /Developer/Projects/sNese/sNese/GLString.m06491725bfa7b541^c1ffc225bfa7b541^-208"/Developer/Projects/sNese/sNese/GLString.m:147:2: warning: Instance variable used while 'self' is not set to the result of '[(super or self) init...]'         cgl_ctx = NULL;         ^1 warning generated.-0#0#0#-19%DVTDocumentLocation2@58"file://localhost/Developer/Projects/sNese/sNese/GLString.m0000000000000000^1881"Analyze sNese/GLString.m    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-arxpcadyhkgvnfcnccdufnylsuzo/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/GLString.d --analyze /Developer/Projects/sNese/sNese/GLString.m -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/GLString.plist36"59D30D46-1E1F-44DF-B5BB-FB15147E7664-
+
+CAnalyze /Developer/Projects/sNese/sNese/GLView.mm
+s364755304.447038
+e364755307.247604
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/GLView.mm
+o/Developer/Projects/sNese/sNese/GLView.mm:40:3:{40:5-40:16}: warning: Incorrect decrement of the reference count of an object that is not owned at this point by the caller
+o                 [ pixelFormat release ];
+o                 ^ ~~~~~~~~~~~
+o/Developer/Projects/sNese/sNese/GLView.mm:78:16: warning: Potential leak of an object allocated on line 78 and stored into 'pixelFormat'
+o         pixelFormat = [ [ NSOpenGLPixelFormat alloc ]
+o                       ^
+o/Developer/Projects/sNese/sNese/GLView.mm:413:3:{413:5-413:16}: warning: Incorrect decrement of the reference count of an object that is not owned at this point by the caller
+o                 [ pixelFormat release ];
+o                 ^ ~~~~~~~~~~~
+o/Developer/Projects/sNese/sNese/GLView.mm:449:16: warning: Potential leak of an object allocated on line 449 and stored into 'pixelFormat'
+o         pixelFormat = [ [ NSOpenGLPixelFormat alloc ]
+o                       ^
+o4 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Analyze /Developer/Projects/sNese/sNese/GLView.mm9d847268b9bdb541^5e633f6bb9bdb541^-951"/Developer/Projects/sNese/sNese/GLView.mm:40:3:{40:5-40:16}: warning: Incorrect decrement of the reference count of an object that is not owned at this point by the caller                 [ pixelFormat release ];                 ^ ~~~~~~~~~~~/Developer/Projects/sNese/sNese/GLView.mm:78:16: warning: Potential leak of an object allocated on line 78 and stored into 'pixelFormat'         pixelFormat = [ [ NSOpenGLPixelFormat alloc ]                       ^/Developer/Projects/sNese/sNese/GLView.mm:413:3:{413:5-413:16}: warning: Incorrect decrement of the reference count of an object that is not owned at this point by the caller                 [ pixelFormat release ];                 ^ ~~~~~~~~~~~/Developer/Projects/sNese/sNese/GLView.mm:449:16: warning: Potential leak of an object allocated on line 449 and stored into 'pixelFormat'         pixelFormat = [ [ NSOpenGLPixelFormat alloc ]                       ^4 warnings generated.-0#0#0#-19%DVTDocumentLocation2@57"file://localhost/Developer/Projects/sNese/sNese/GLView.mm0000000000000000^1926"Analyze sNese/GLView.mm    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/GLView.d --analyze /Developer/Projects/sNese/sNese/GLView.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/GLView.plist36"E5C4D294-0E64-4DE4-A88D-1A0FBF4DABF3-
+
+CAnalyze /Developer/Projects/sNese/sNese/Opcodes.mm
+s364755304.447179
+e364755305.131416
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/Opcodes.mm
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Analyze /Developer/Projects/sNese/sNese/Opcodes.mm618e7268b9bdb541^a4aa2169b9bdb541^---0#0#0#-19%DVTDocumentLocation2@58"file://localhost/Developer/Projects/sNese/sNese/Opcodes.mm0000000000000000^1930"Analyze sNese/Opcodes.mm    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/Opcodes.d --analyze /Developer/Projects/sNese/sNese/Opcodes.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/Opcodes.plist36"5C082CDA-8F1F-40D6-B259-EEA53AFB7137-
+
+CAnalyze /Developer/Projects/sNese/sNese/PPU.mm
+s364755304.449688
+e364755307.550276
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/PPU.mm
+o/Developer/Projects/sNese/sNese/PPU.mm:27:3:{27:17-27:28}: warning: Value stored to 'tileMapSize' is never read
+o                 tileMapSize = 32 * 32 * 2;
+o                 ^             ~~~~~~~~~~~
+o/Developer/Projects/sNese/sNese/PPU.mm:31:3:{31:17-31:28}: warning: Value stored to 'tileMapSize' is never read
+o                 tileMapSize = 64 * 64 * 2;
+o                 ^             ~~~~~~~~~~~
+o/Developer/Projects/sNese/sNese/PPU.mm:29:3:{29:17-29:28}: warning: Value stored to 'tileMapSize' is never read
+o                 tileMapSize = 32 * 64 * 2;
+o                 ^             ~~~~~~~~~~~
+o3 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Analyze /Developer/Projects/sNese/sNese/PPU.mmae2e7368b9bdb541^f8e18c6bb9bdb541^-619"/Developer/Projects/sNese/sNese/PPU.mm:27:3:{27:17-27:28}: warning: Value stored to 'tileMapSize' is never read                 tileMapSize = 32 * 32 * 2;                 ^             ~~~~~~~~~~~/Developer/Projects/sNese/sNese/PPU.mm:31:3:{31:17-31:28}: warning: Value stored to 'tileMapSize' is never read                 tileMapSize = 64 * 64 * 2;                 ^             ~~~~~~~~~~~/Developer/Projects/sNese/sNese/PPU.mm:29:3:{29:17-29:28}: warning: Value stored to 'tileMapSize' is never read                 tileMapSize = 32 * 64 * 2;                 ^             ~~~~~~~~~~~3 warnings generated.-0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Developer/Projects/sNese/sNese/PPU.mm0000000000000000^1914"Analyze sNese/PPU.mm    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/PPU.d --analyze /Developer/Projects/sNese/sNese/PPU.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/PPU.plist36"43F8F3A5-9890-453C-AD16-AAAD46362816-
+
+CAnalyze /Developer/Projects/sNese/sNese/TableWindow.mm
+s363314981.122335
+e363314981.490464
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/TableWindow.mm
+o/Developer/Projects/sNese/sNese/TableWindow.mm:73:18: warning: Potential leak of an object allocated on line 73
+o         [ self setItems:[ NSMutableArray new ] ];
+o                         ^
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Analyze /Developer/Projects/sNese/sNese/TableWindow.mm6e6b1f25bfa7b541^b0907d25bfa7b541^-211"/Developer/Projects/sNese/sNese/TableWindow.mm:73:18: warning: Potential leak of an object allocated on line 73         [ self setItems:[ NSMutableArray new ] ];                         ^1 warning generated.-0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Developer/Projects/sNese/sNese/TableWindow.mm0000000000000000^1946"Analyze sNese/TableWindow.mm    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/TableWindow.d --analyze /Developer/Projects/sNese/sNese/TableWindow.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/TableWindow.plist36"3FF4C5A8-BADF-40E4-9774-351F6550BDF4-
+
+CAnalyze /Developer/Projects/sNese/sNese/main.m
+s363314981.090497
+e363314981.559717
+r1
+xAnalyze
+x/Developer/Projects/sNese/sNese/main.m
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Analyze /Developer/Projects/sNese/sNese/main.mab3e1725bfa7b541^234a8f25bfa7b541^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Developer/Projects/sNese/sNese/main.m0000000000000000^1865"Analyze sNese/main.m    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-arxpcadyhkgvnfcnccdufnylsuzo/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/main.d --analyze /Developer/Projects/sNese/sNese/main.m -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/StaticAnalyzer/normal/x86_64/main.plist36"A9E54B74-A9DC-4850-8043-CBBB5B0E51A1-
+
+CBuild AST from /Developer/Projects/sNese/sNese/APU.m
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/APU.mm
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/APUOpcodes.mm
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/AppDelegate.m
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/AppDelegate.mm
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/CPU.m
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/CPU.mm
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/CPUBackup.mm
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/DSP.m
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/DSP.mm
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/GLString.m
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/GLView.mm
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/Opcodes.m
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/Opcodes.mm
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/PPU.m
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/PPU.mm
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/TableWindow.mm
+r0
+
+CBuild AST from /Developer/Projects/sNese/sNese/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1ccf8b8c46cbb541^87318d8c46cbb541^---0#1#0#--18"Check dependencies36"FE6F18B1-9F30-4F74-93EA-0564DBBDBE18-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.o /Developer/Projects/sNese/sNese/APU.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362274765.692456
+e362274766.499976
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.o
+x/Developer/Projects/sNese/sNese/APU.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Developer/Projects/sNese/sNese/APU.m:13:6: warning: no previous prototype for function 'APUInit' [-Wmissing-prototypes,3]
+o void APUInit()
+o      ^
+o/Developer/Projects/sNese/sNese/APU.m:18:6: warning: no previous prototype for function 'APUDealloc' [-Wmissing-prototypes,3]
+o void APUDealloc()
+o      ^
+o2 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Developer/Projects/sNese/sNese/APU.m1f64b1cddf97b541^6dfe7fcedf97b541^-322"/Developer/Projects/sNese/sNese/APU.m:13:6: warning: no previous prototype for function 'APUInit' [-Wmissing-prototypes,3] void APUInit()      ^/Developer/Projects/sNese/sNese/APU.m:18:6: warning: no previous prototype for function 'APUDealloc' [-Wmissing-prototypes,3] void APUDealloc()      ^2 warnings generated.2(21%IDEActivityLogMessage2@44"No previous prototype for function 'APUInit'-362274766#0#123#-1#-23%DVTTextDocumentLocation3@53"file://localhost/Developer/Projects/sNese/sNese/APU.m0000000000000000^12#5#12#5#18446744073709551615#0#14"Semantic Issue--2@47"No previous prototype for function 'APUDealloc'-362274766#147#126#-1#-3@53"file://localhost/Developer/Projects/sNese/sNese/APU.m0000000000000000^17#5#17#5#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@53"file://localhost/Developer/Projects/sNese/sNese/APU.m0000000000000000^1905"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.o sNese/APU.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.d -c /Developer/Projects/sNese/sNese/APU.m -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.o36"C49B9D09-B24A-4E17-9CBB-82CD1BDA3564-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.o /Developer/Projects/sNese/sNese/APU.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s365637187.508262
+e365637187.638612
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.o
+x/Developer/Projects/sNese/sNese/APU.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Developer/Projects/sNese/sNese/APU.mm763882432ecbb541^137ca3432ecbb541^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Developer/Projects/sNese/sNese/APU.mm0000000000000000^1960"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.o sNese/APU.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.d -c /Developer/Projects/sNese/sNese/APU.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APU.o36"BB76384D-7A87-4AAD-BE84-BFF51947F626-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APUOpcodes.o /Developer/Projects/sNese/sNese/APUOpcodes.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s365632661.408470
+e365632661.550744
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APUOpcodes.o
+x/Developer/Projects/sNese/sNese/APUOpcodes.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Developer/Projects/sNese/sNese/APUOpcodes.mm1ea368951ccbb541^40fc8c951ccbb541^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Developer/Projects/sNese/sNese/APUOpcodes.mm0000000000000000^1995"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APUOpcodes.o sNese/APUOpcodes.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APUOpcodes.d -c /Developer/Projects/sNese/sNese/APUOpcodes.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/APUOpcodes.o36"0C710D18-6F45-4FB9-970B-5D14DDDC0E4B-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.o /Developer/Projects/sNese/sNese/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345007884.757780
+e345007884.804365
+r0
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.o
+x/Developer/Projects/sNese/sNese/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Developer/Projects/sNese/sNese/AppDelegate.m:9:
+oIn file included from /Developer/Projects/sNese/sNese/AppDelegate.h:11:
+oIn file included from /Developer/Projects/sNese/sNese/CPU.h:10:
+o/Developer/Projects/sNese/sNese/Opcodes.h:22:8: error: expected identifier or '(' [1]
+o extern "C" void SetupOpcodes();
+o        ^
+o/Developer/Projects/sNese/sNese/AppDelegate.m:21:2: warning: implicit declaration of function 'SetupOpcodes' is invalid in C99 [-Wimplicit-function-declaration,3]
+o         SetupOpcodes();
+o         ^
+o1 warning and 1 error generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Developer/Projects/sNese/sNese/AppDelegate.m3f1ec20c6790b441^c9e7cd0c6790b441^-568"In file included from /Developer/Projects/sNese/sNese/CPU.h:10:In file included from /Developer/Projects/sNese/sNese/AppDelegate.h:11:In file included from /Developer/Projects/sNese/sNese/AppDelegate.m:9:/Developer/Projects/sNese/sNese/Opcodes.h:22:8: error: expected identifier or '(' [1] extern "C" void SetupOpcodes();        ^/Developer/Projects/sNese/sNese/AppDelegate.m:21:2: warning: implicit declaration of function 'SetupOpcodes' is invalid in C99 [-Wimplicit-function-declaration,3]         SetupOpcodes();         ^1 warning and 1 error generated.2(21%IDEActivityLogMessage2@26"Expected identifier or '('24"Expected identifier or '345007884#207#86#4(36%IDEActivityLogHeaderInclusionMessage3@63"In file included from /Developer/Projects/sNese/sNese/CPU.h:10:-345007884#0#64#-0#-23%DVTTextDocumentLocation4@53"file://localhost/Developer/Projects/sNese/sNese/CPU.h0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---3@71"In file included from /Developer/Projects/sNese/sNese/AppDelegate.h:11:-345007884#64#72#-0#-4@61"file://localhost/Developer/Projects/sNese/sNese/AppDelegate.h0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---3@70"In file included from /Developer/Projects/sNese/sNese/AppDelegate.m:9:-345007884#136#71#-0#-4@61"file://localhost/Developer/Projects/sNese/sNese/AppDelegate.m0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---2@71"Expected identifier or '(' in /Developer/Projects/sNese/sNese/Opcodes.h-345007884#18446744073709551615#0#-0#-4@57"file://localhost/Developer/Projects/sNese/sNese/Opcodes.h0000000000000000^21#7#21#7#18446744073709551615#0#---2#-4@57"file://localhost/Developer/Projects/sNese/sNese/Opcodes.h0000000000000000^21#7#21#7#18446744073709551615#0#11"Parse Issue--2@65"Implicit declaration of function 'SetupOpcodes' is invalid in C99-345007884#336#163#-1#-4@61"file://localhost/Developer/Projects/sNese/sNese/AppDelegate.m0000000000000000^20#1#20#1#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation5@61"file://localhost/Developer/Projects/sNese/sNese/AppDelegate.m0000000000000000^1945"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.o sNese/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-clxzxfartgheafcsasetsgtqtzfv/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.d -c /Developer/Projects/sNese/sNese/AppDelegate.m -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.o36"5A7B0D16-35B4-404C-AFDE-E696A19F340C-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.o /Developer/Projects/sNese/sNese/AppDelegate.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s365637187.508246
+e365637187.781016
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.o
+x/Developer/Projects/sNese/sNese/AppDelegate.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Developer/Projects/sNese/sNese/AppDelegate.mm973882432ecbb541^0ff1c7432ecbb541^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Developer/Projects/sNese/sNese/AppDelegate.mm0000000000000000^2000"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.o sNese/AppDelegate.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.d -c /Developer/Projects/sNese/sNese/AppDelegate.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/AppDelegate.o36"C048D582-2E29-449D-BBFD-C3A409EE71CC-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.o /Developer/Projects/sNese/sNese/CPU.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345001870.173827
+e345001870.192159
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.o
+x/Developer/Projects/sNese/sNese/CPU.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Developer/Projects/sNese/sNese/CPU.m:11:6: warning: no previous prototype for function 'CPU_Init' [-Wmissing-prototypes,3]
+o void CPU_Init()
+o      ^
+o/Developer/Projects/sNese/sNese/CPU.m:15:6: warning: no previous prototype for function 'Execute' [-Wmissing-prototypes,3]
+o void Execute()
+o      ^
+o/Developer/Projects/sNese/sNese/CPU.m:19:6: warning: no previous prototype for function 'CPU_Dealloc' [-Wmissing-prototypes,3]
+o void CPU_Dealloc()
+o      ^
+o3 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Developer/Projects/sNese/sNese/CPU.m5c912c8e4f90b441^ca31318e4f90b441^-473"/Developer/Projects/sNese/sNese/CPU.m:11:6: warning: no previous prototype for function 'CPU_Init' [-Wmissing-prototypes,3] void CPU_Init()      ^/Developer/Projects/sNese/sNese/CPU.m:15:6: warning: no previous prototype for function 'Execute' [-Wmissing-prototypes,3] void Execute()      ^/Developer/Projects/sNese/sNese/CPU.m:19:6: warning: no previous prototype for function 'CPU_Dealloc' [-Wmissing-prototypes,3] void CPU_Dealloc()      ^3 warnings generated.3(21%IDEActivityLogMessage2@45"No previous prototype for function 'CPU_Init'-345001870#0#124#-1#-23%DVTTextDocumentLocation3@53"file://localhost/Developer/Projects/sNese/sNese/CPU.m0000000000000000^10#5#10#5#18446744073709551615#0#14"Semantic Issue--2@44"No previous prototype for function 'Execute'-345001870#149#123#-1#-3@53"file://localhost/Developer/Projects/sNese/sNese/CPU.m0000000000000000^14#5#14#5#18446744073709551615#0#14"Semantic Issue--2@48"No previous prototype for function 'CPU_Dealloc'-345001870#296#127#-1#-3@53"file://localhost/Developer/Projects/sNese/sNese/CPU.m0000000000000000^18#5#18#5#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@53"file://localhost/Developer/Projects/sNese/sNese/CPU.m0000000000000000^1905"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.o sNese/CPU.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-clxzxfartgheafcsasetsgtqtzfv/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.d -c /Developer/Projects/sNese/sNese/CPU.m -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.o36"807D187E-3F14-4CD2-A7B6-74433766FE6A-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.o /Developer/Projects/sNese/sNese/CPU.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s365638382.360334
+e365638382.519513
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.o
+x/Developer/Projects/sNese/sNese/CPU.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Developer/Projects/sNese/sNese/CPU.mm22515cee32cbb541^f33a9aee32cbb541^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Developer/Projects/sNese/sNese/CPU.mm0000000000000000^1960"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.o sNese/CPU.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.d -c /Developer/Projects/sNese/sNese/CPU.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPU.o36"33090E91-7C5C-4DF8-99B4-0289FE277D10-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/CPUBackup.o /Developer/Projects/sNese/sNese/CPUBackup.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.o /Developer/Projects/sNese/sNese/DSP.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s363125288.570039
+e363125288.604558
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.o
+x/Developer/Projects/sNese/sNese/DSP.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Developer/Projects/sNese/sNese/DSP.m:20:6: warning: unused variable 'restart' [-Wunused-variable,12]
+o         u16 restart = APUReadMemory16(total + 2);
+o             ^
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Developer/Projects/sNese/sNese/DSP.m00fe9128daa4b541^f8c49a28daa4b541^-189"/Developer/Projects/sNese/sNese/DSP.m:20:6: warning: unused variable 'restart' [-Wunused-variable,12]         u16 restart = APUReadMemory16(total + 2);             ^1 warning generated.1(21%IDEActivityLogMessage2@25"Unused variable 'restart'-363125288#0#102#-1#-23%DVTTextDocumentLocation3@53"file://localhost/Developer/Projects/sNese/sNese/DSP.m0000000000000000^19#5#19#5#18446744073709551615#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@53"file://localhost/Developer/Projects/sNese/sNese/DSP.m0000000000000000^1905"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.o sNese/DSP.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.d -c /Developer/Projects/sNese/sNese/DSP.m -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.o36"244D46CF-C458-447C-B4A6-8861A780EFB7-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.o /Developer/Projects/sNese/sNese/DSP.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s365466656.673943
+e365466656.778921
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.o
+x/Developer/Projects/sNese/sNese/DSP.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Developer/Projects/sNese/sNese/DSP.mm4e9cac2094c8b541^e09ec72094c8b541^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Developer/Projects/sNese/sNese/DSP.mm0000000000000000^1960"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.o sNese/DSP.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.d -c /Developer/Projects/sNese/sNese/DSP.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/DSP.o36"71619701-5268-48AC-B8F5-DA27540CA7EA-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLString.o /Developer/Projects/sNese/sNese/GLString.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s363136668.255525
+e363136669.341467
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLString.o
+x/Developer/Projects/sNese/sNese/GLString.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Compile /Developer/Projects/sNese/sNese/GLString.me223429c06a5b541^836a579d06a5b541^---0#0#0#-19%DVTDocumentLocation2@58"file://localhost/Developer/Projects/sNese/sNese/GLString.m0000000000000000^1930"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLString.o sNese/GLString.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLString.d -c /Developer/Projects/sNese/sNese/GLString.m -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLString.o36"0DD75237-6D12-4AF7-9E08-6BA0D709083F-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLView.o /Developer/Projects/sNese/sNese/GLView.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s365642045.255866
+e365642045.418255
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLView.o
+x/Developer/Projects/sNese/sNese/GLView.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Developer/Projects/sNese/sNese/GLView.mm1894413d41cbb541^d3126b3d41cbb541^---0#0#0#-19%DVTDocumentLocation2@57"file://localhost/Developer/Projects/sNese/sNese/GLView.mm0000000000000000^1975"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLView.o sNese/GLView.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLView.d -c /Developer/Projects/sNese/sNese/GLView.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/GLView.o36"094CA05C-6AA1-43D7-A3C8-1FF54676759A-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/Opcodes.o /Developer/Projects/sNese/sNese/Opcodes.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/Opcodes.o /Developer/Projects/sNese/sNese/Opcodes.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s365637187.508224
+e365637187.802554
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/Opcodes.o
+x/Developer/Projects/sNese/sNese/Opcodes.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Compile /Developer/Projects/sNese/sNese/Opcodes.mm7a3782432ecbb541^3f74cd432ecbb541^---0#0#0#-19%DVTDocumentLocation2@58"file://localhost/Developer/Projects/sNese/sNese/Opcodes.mm0000000000000000^1980"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/Opcodes.o sNese/Opcodes.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/Opcodes.d -c /Developer/Projects/sNese/sNese/Opcodes.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/Opcodes.o36"915DDC08-4502-4B99-B378-48C85D39D334-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/PPU.o /Developer/Projects/sNese/sNese/PPU.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/PPU.o /Developer/Projects/sNese/sNese/PPU.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s365643404.581421
+e365643404.734737
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/PPU.o
+x/Developer/Projects/sNese/sNese/PPU.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Developer/Projects/sNese/sNese/PPU.mm79eb948c46cbb541^6517bc8c46cbb541^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Developer/Projects/sNese/sNese/PPU.mm0000000000000000^1960"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/PPU.o sNese/PPU.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/PPU.d -c /Developer/Projects/sNese/sNese/PPU.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/PPU.o36"F8BE9DA6-569E-489C-A6A1-096FE089EB7F-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/TableWindow.o /Developer/Projects/sNese/sNese/TableWindow.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s362889048.172262
+e362889048.211192
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/TableWindow.o
+x/Developer/Projects/sNese/sNese/TableWindow.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Developer/Projects/sNese/sNese/TableWindow.mm3c302c583fa1b541^bf1036583fa1b541^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Developer/Projects/sNese/sNese/TableWindow.mm0000000000000000^2000"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/TableWindow.o sNese/TableWindow.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/TableWindow.d -c /Developer/Projects/sNese/sNese/TableWindow.mm -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/TableWindow.o36"53C46ADD-9D21-4D2D-8A26-CB6CF3DCA4F3-
+
+CCompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/main.o /Developer/Projects/sNese/sNese/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362184357.816512
+e362184358.105566
+r1
+xCompileC
+xbuild/sNese.build/Debug/sNese.build/Objects-normal/x86_64/main.o
+x/Developer/Projects/sNese/sNese/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Developer/Projects/sNese/sNese/main.m0d1bd1a57e96b541^4f061ba67e96b541^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Developer/Projects/sNese/sNese/main.m0000000000000000^1910"CompileC build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/main.o sNese/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -include /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch -MMD -MT dependencies -MF /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/main.d -c /Developer/Projects/sNese/sNese/main.m -o /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/main.o36"33B25BCF-E9CB-47CB-8264-18897A42162A-
+
+CCompileXIB /Developer/Projects/sNese/sNese/en.lproj/MainMenu.xib
+s365636283.441293
+e365636284.935269
+r1
+xCompileXIB
+x/Developer/Projects/sNese/sNese/en.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Developer/Projects/sNese/sNese/en.lproj/MainMenu.xib:697: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compiling /Developer/Projects/sNese/sNese/en.lproj/MainMenu.xibaf0571bb2acbb541^8317f1bc2acbb541^-250"/* com.apple.ibtool.document.warnings *//Developer/Projects/sNese/sNese/en.lproj/MainMenu.xib:697: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]1(21%IDEActivityLogMessage2@136"Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)58"Content rectangle not entirely on screen with the menu bar365636284#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@69"file://localhost/Developer/Projects/sNese/sNese/en.lproj/MainMenu.xib0000000000000000^696#18446744073709551615#696#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#0#-19%DVTDocumentLocation4@69"file://localhost/Developer/Projects/sNese/sNese/en.lproj/MainMenu.xib0000000000000000^416"CompileXIB sNese/en.lproj/MainMenu.xib    cd /Developer/Projects/sNese    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/en.lproj/MainMenu.nib /Developer/Projects/sNese/sNese/en.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.7.sdk36"397D9814-056C-4DD6-B91C-FE40DB3D9D18-
+
+CCopyStringsFile /Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/en.lproj/InfoPlist.strings sNese/en.lproj/InfoPlist.strings
+s344998978.869712
+e344998978.872318
+r1
+xCopyStringsFile
+x/Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/en.lproj/InfoPlist.strings
+xsNese/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy sNese/en.lproj/InfoPlist.strings17b6de424490b441^c250df424490b441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Developer/Projects/sNese/sNese/en.lproj/InfoPlist.strings0000000000000000^352"CopyStringsFile build/Debug/sNese.app/Contents/Resources/en.lproj/InfoPlist.strings sNese/en.lproj/InfoPlist.strings    cd /Developer/Projects/sNese    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/en.lproj -- sNese/en.lproj/InfoPlist.strings36"F9019EF2-2C63-445F-B6AA-66189877693F-
+
+CCpResource sNese/en.lproj/Credits.rtf build/Debug/sNese.app/Contents/Resources/en.lproj/Credits.rtf
+s344998978.869726
+e344998978.873412
+r1
+xCpResource
+xsNese/en.lproj/Credits.rtf
+xbuild/Debug/sNese.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug/sNese.app/Contents/Resources/en.lproj/Credits.rtff6b5de424490b441^5298df424490b441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/en.lproj/Credits.rtf00f44820deffdf42^374"CpResource sNese/en.lproj/Credits.rtf build/Debug/sNese.app/Contents/Resources/en.lproj/Credits.rtf    cd /Developer/Projects/sNese    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Developer/Projects/sNese/sNese/en.lproj/Credits.rtf /Developer/Projects/sNese/build/Debug/sNese.app/Contents/Resources/en.lproj36"C82FCF89-D737-4D6D-8C02-EF9939F99103-
+
+CCpResource sNese/sNese build/Debug/sNese.app/Contents/Resources/sNese
+r0
+
+CLd /Developer/Projects/sNese/build/Debug/sNese.app/Contents/MacOS/sNese normal x86_64
+s365643404.741618
+e365643404.824268
+r1
+xLd
+x/Developer/Projects/sNese/build/Debug/sNese.app/Contents/MacOS/sNese
+xnormal
+xx86_64
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Link /Developer/Projects/sNese/build/Debug/sNese.app/Contents/MacOS/sNese3ee8bd8c46cbb541^f303d38c46cbb541^---0#0#0#--563"Ld build/Debug/sNese.app/Contents/MacOS/sNese normal x86_64    cd /Developer/Projects/sNese    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/clang++ -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Developer/Projects/sNese/build/Debug -F/Developer/Projects/sNese/build/Debug -filelist /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/Objects-normal/x86_64/sNese.LinkFileList -mmacosx-version-min=10.7 -framework Cocoa -framework OpenGL -framework OpenAL -o /Developer/Projects/sNese/build/Debug/sNese.app/Contents/MacOS/sNese36"F537BB7E-DD79-4958-A394-D74B98795D94-
+
+CProcessInfoPlistFile /Developer/Projects/sNese/build/Debug/sNese.app/Contents/Info.plist sNese/sNese-Info.plist
+s362184356.695283
+e362184356.714232
+r1
+xProcessInfoPlistFile
+x/Developer/Projects/sNese/build/Debug/sNese.app/Contents/Info.plist
+xsNese/sNese-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process sNese/sNese-Info.plist950eb2a47e96b541^c7d7b6a47e96b541^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Developer/Projects/sNese/sNese/sNese-Info.plist0000000000000000^357"ProcessInfoPlistFile build/Debug/sNese.app/Contents/Info.plist sNese/sNese-Info.plist    cd /Developer/Projects/sNese    builtin-infoPlistUtility sNese/sNese-Info.plist -genpkginfo /Developer/Projects/sNese/build/Debug/sNese.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Developer/Projects/sNese/build/Debug/sNese.app/Contents/Info.plist36"824D2C08-8371-4B52-B8E0-16785EF32884-
+
+CProcessPCH /Users/Neil/Library/Developer/Xcode/DerivedData/sNese-eqriumrugimeqdazwloskjwhovhu/Index/PrecompiledHeaders/sNese-Prefix-eqksemniwrfxyeedbkfpdjxeyaht_ast/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Neil/Library/Developer/Xcode/DerivedData/sNese-eqriumrugimeqdazwloskjwhovhu/Index/PrecompiledHeaders/sNese-Prefix-frlteldpkydqmqagvkastzaynujw_ast/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Neil/Library/Developer/Xcode/DerivedData/sNese-eqriumrugimeqdazwloskjwhovhu/Index/PrecompiledHeaders/sNese-Prefix-ftovmywjcdbikngoiaqnqorfmnmg_ast/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Neil/Library/Developer/Xcode/DerivedData/sNese-eqriumrugimeqdazwloskjwhovhu/Index/PrecompiledHeaders/sNese-Prefix-gsiukirbpritrcaaphipmoardvgz_ast/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-amdotulsxunoxzhcjduhrfkeatzq/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s344998977.382407
+e344998978.015193
+r1
+xProcessPCH
+x/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-amdotulsxunoxzhcjduhrfkeatzq/sNese-Prefix.pch.pth
+xsNese/sNese-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile sNese/sNese-Prefix.pchb84062414490b441^f8e203424490b441^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Developer/Projects/sNese/sNese/sNese-Prefix.pch0000000000000000^2010"ProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-amdotulsxunoxzhcjduhrfkeatzq/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -c /Developer/Projects/sNese/sNese/sNese-Prefix.pch -o /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-amdotulsxunoxzhcjduhrfkeatzq/sNese-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-amdotulsxunoxzhcjduhrfkeatzq/sNese-Prefix.pch.d36"9FB60B69-200F-42BD-AADC-BE9D4C460542-
+
+CProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-arxpcadyhkgvnfcnccdufnylsuzo/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s363314978.408149
+e363314981.082611
+r1
+xProcessPCH
+x/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-arxpcadyhkgvnfcnccdufnylsuzo/sNese-Prefix.pch.pth
+xsNese/sNese-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile sNese/sNese-Prefix.pch04926822bfa7b541^ca311525bfa7b541^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Developer/Projects/sNese/sNese/sNese-Prefix.pch0000000000000000^2065"ProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-arxpcadyhkgvnfcnccdufnylsuzo/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -c /Developer/Projects/sNese/sNese/sNese-Prefix.pch -o /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-arxpcadyhkgvnfcnccdufnylsuzo/sNese-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-arxpcadyhkgvnfcnccdufnylsuzo/sNese-Prefix.pch.d36"10E5552F-5010-47B5-989C-2B11FBDB9FE6-
+
+CProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-clxzxfartgheafcsasetsgtqtzfv/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345000038.921410
+e345000039.959983
+r1
+xProcessPCH
+x/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-clxzxfartgheafcsasetsgtqtzfv/sNese-Prefix.pch.pth
+xsNese/sNese-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile sNese/sNese-Prefix.pch06f3eb664890b441^40c1f5674890b441^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Developer/Projects/sNese/sNese/sNese-Prefix.pch0000000000000000^1999"ProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-clxzxfartgheafcsasetsgtqtzfv/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -c /Developer/Projects/sNese/sNese/sNese-Prefix.pch -o /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-clxzxfartgheafcsasetsgtqtzfv/sNese-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-clxzxfartgheafcsasetsgtqtzfv/sNese-Prefix.pch.d36"483453E1-97C7-4E8A-A58A-34BCB32E6201-
+
+CProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362184356.723238
+e362184357.809001
+r1
+xProcessPCH
+x/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch.pth
+xsNese/sNese-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile sNese/sNese-Prefix.pchf243b9a47e96b541^e31acfa57e96b541^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Developer/Projects/sNese/sNese/sNese-Prefix.pch0000000000000000^1999"ProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -c /Developer/Projects/sNese/sNese/sNese-Prefix.pch -o /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-fliskpzafcycoddjwgkqvbkmcusw/sNese-Prefix.pch.d36"EFE8873E-BF7D-4E1B-853F-C4BF8A480EA4-
+
+CProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-hlfnupafhpitzgcszswzbtvkhlqp/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345000421.491208
+e345000422.070566
+r1
+xProcessPCH
+x/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-hlfnupafhpitzgcszswzbtvkhlqp/sNese-Prefix.pch.pth
+xsNese/sNese-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile sNese/sNese-Prefix.pche0d67de54990b441^7b1012e64990b441^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Developer/Projects/sNese/sNese/sNese-Prefix.pch0000000000000000^2027"ProcessPCH /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-hlfnupafhpitzgcszswzbtvkhlqp/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -F/Developer/Projects/sNese -c /Developer/Projects/sNese/sNese/sNese-Prefix.pch -o /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-hlfnupafhpitzgcszswzbtvkhlqp/sNese-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-hlfnupafhpitzgcszswzbtvkhlqp/sNese-Prefix.pch.d36"EA47040B-BA36-4AC5-8BB2-EC684878D3B7-
+
+CProcessPCH++ /Users/Neil/Library/Developer/Xcode/DerivedData/sNese-eqriumrugimeqdazwloskjwhovhu/Index/PrecompiledHeaders/sNese-Prefix-aihfukbvttbevignlraqcktvodar_ast/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/Neil/Library/Developer/Xcode/DerivedData/sNese-eqriumrugimeqdazwloskjwhovhu/Index/PrecompiledHeaders/sNese-Prefix-dqctfxcbgvmofjerqqaypjwxgewf_ast/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/Neil/Library/Developer/Xcode/DerivedData/sNese-eqriumrugimeqdazwloskjwhovhu/Index/PrecompiledHeaders/sNese-Prefix-dzxukreiebswprdhrcxwtyoienzc_ast/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.analyzer
+s363314978.408153
+e363314981.115059
+r1
+xProcessPCH++
+x/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch.pth
+xsNese/sNese-Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile sNese/sNese-Prefix.pch68926822bfa7b541^57761d25bfa7b541^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Developer/Projects/sNese/sNese/sNese-Prefix.pch0000000000000000^2120"ProcessPCH++ /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.analyzer    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -c /Developer/Projects/sNese/sNese/sNese-Prefix.pch -o /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-ajdecrrbpnqlbpbpowhwscoipxsa/sNese-Prefix.pch.d36"5BEAD31F-5330-4582-BA3C-C4FD9F5BF5B8-
+
+CProcessPCH++ /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-bgiauxfjopqfrqdfmgbpixtgaaoz/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s345000421.491241
+e345000422.274897
+r1
+xProcessPCH++
+x/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-bgiauxfjopqfrqdfmgbpixtgaaoz/sNese-Prefix.pch.pth
+xsNese/sNese-Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile sNese/sNese-Prefix.pch34d77de54990b441^566246e64990b441^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Developer/Projects/sNese/sNese/sNese-Prefix.pch0000000000000000^2082"ProcessPCH++ /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-bgiauxfjopqfrqdfmgbpixtgaaoz/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -F/Developer/Projects/sNese -c /Developer/Projects/sNese/sNese/sNese-Prefix.pch -o /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-bgiauxfjopqfrqdfmgbpixtgaaoz/sNese-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-bgiauxfjopqfrqdfmgbpixtgaaoz/sNese-Prefix.pch.d36"17AB6859-418C-41D3-B88D-518C6A324454-
+
+CProcessPCH++ /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-dtqmmeptnyhwuahkalfyuvovnzil/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s345000393.610931
+e345000396.106965
+r1
+xProcessPCH++
+x/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-dtqmmeptnyhwuahkalfyuvovnzil/sNese-Prefix.pch.pth
+xsNese/sNese-Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile sNese/sNese-Prefix.pch3a7a9cc94990b441^d3831ecc4990b441^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Developer/Projects/sNese/sNese/sNese-Prefix.pch0000000000000000^2054"ProcessPCH++ /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-dtqmmeptnyhwuahkalfyuvovnzil/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -c /Developer/Projects/sNese/sNese/sNese-Prefix.pch -o /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-dtqmmeptnyhwuahkalfyuvovnzil/sNese-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-dtqmmeptnyhwuahkalfyuvovnzil/sNese-Prefix.pch.d36"4CFA3103-2C74-4C3D-A73F-8C6AD6E9C2ED-
+
+CProcessPCH++ /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s362184356.723933
+e362184358.184224
+r1
+xProcessPCH++
+x/var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch.pth
+xsNese/sNese-Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile sNese/sNese-Prefix.pchc2ddb9a47e96b541^80292fa67e96b541^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Developer/Projects/sNese/sNese/sNese-Prefix.pch0000000000000000^2054"ProcessPCH++ /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch.pth sNese/sNese-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Developer/Projects/sNese    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-generated-files.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-own-target-headers.hmap -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-all-target-headers.hmap -iquote /Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/sNese-project-headers.hmap -I/Developer/Projects/sNese/build/Debug/include -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources/x86_64 -I/Developer/Projects/sNese/build/sNese.build/Debug/sNese.build/DerivedSources -F/Developer/Projects/sNese/build/Debug -c /Developer/Projects/sNese/sNese/sNese-Prefix.pch -o /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/4k/36_s64xn2x5bylkdxz1t1y9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/sNese-Prefix-efcqfctmthpxvicmkbjkbgedxeef/sNese-Prefix.pch.d36"E1160FF2-2512-4DC9-9C60-849EE9367226-
+
+CTouch /Developer/Projects/sNese/build/Debug/sNese.app
+s365643404.840076
+e365643404.843918
+r1
+xTouch
+x/Developer/Projects/sNese/build/Debug/sNese.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Touch /Developer/Projects/sNese/build/Debug/sNese.app6119d78c46cbb541^bb0bd88c46cbb541^---0#0#0#--131"Touch build/Debug/sNese.app    cd /Developer/Projects/sNese    /usr/bin/touch -c /Developer/Projects/sNese/build/Debug/sNese.app36"B88B367B-7153-402F-BA48-6011A4F741D2-
+
